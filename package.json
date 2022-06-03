@@ -1,7 +1,7 @@
 {
-  "name": "brogrammer-plus",
-  "displayName": "Brogrammer Plus",
-  "description": "A brogrammer theme with semantic highlighting and more",
+  "name": "brogrammer-plus-modified",
+  "displayName": "Brogrammer Plus (Modified)",
+  "description": "A brogrammer theme with semantic highlighting and more\nModified by Neko Boi Nick",
   "version": "0.0.19",
   "engines": {
     "vscode": "^1.65.0"
@@ -12,19 +12,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Brogrammer Plus",
+        "label": "Brogrammer Plus (Modified)",
         "uiTheme": "vs-dark",
         "path": "./themes/brogrammer-plus-color-theme.json"
       }
     ]
   },
-  "repository": "https://github.com/jackjyq/vscode-theme-brogrammer-plus",
-  "publisher": "jackjyq",
+  "repository": "https://github.com/thakyZ/vscode-theme-brogrammer-plus",
+  "publisher": "thakyZ",
   "icon": "icon.png",
   "__metadata": {
-    "id": "195d286a-12d5-499f-9c9a-4c79f422dea2",
-    "publisherDisplayName": "Jack Jiang",
-    "publisherId": "e71c598a-4275-4762-88fc-f2864b0346bb",
-    "isPreReleaseVersion": false
+    "publisherDisplayName": "Neko Boi Nick",
+    "isPreReleaseVersion": true
   }
 }
